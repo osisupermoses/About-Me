@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @osisupermoses
-- 👀 I’m interested in buidling Android apps
-- 🌱 I’m currently learning how to and I have also built quite some apps using Kotlin language
+- 👀 I’m love buidling Android apps imperatively and declaratively.
 - 💞️ I’m looking to collaborate with you on any projects you might have and write quality codes.
 - 📫 Reach me on osisupermoses@gmail.com anytime!
 
